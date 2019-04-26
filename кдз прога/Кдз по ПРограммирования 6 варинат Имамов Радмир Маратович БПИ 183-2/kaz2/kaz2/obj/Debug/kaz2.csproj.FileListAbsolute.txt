@@ -1,0 +1,24 @@
+C:\Users\радмир\source\repos\kaz2\kaz2\bin\Debug\kaz2.exe.config
+C:\Users\радмир\source\repos\kaz2\kaz2\bin\Debug\kaz2.exe
+C:\Users\радмир\source\repos\kaz2\kaz2\bin\Debug\kaz2.pdb
+C:\Users\радмир\source\repos\kaz2\kaz2\obj\Debug\kaz2.csprojAssemblyReference.cache
+C:\Users\радмир\source\repos\kaz2\kaz2\obj\Debug\kaz2.Form1.resources
+C:\Users\радмир\source\repos\kaz2\kaz2\obj\Debug\kaz2.Properties.Resources.resources
+C:\Users\радмир\source\repos\kaz2\kaz2\obj\Debug\kaz2.csproj.GenerateResource.cache
+C:\Users\радмир\source\repos\kaz2\kaz2\obj\Debug\kaz2.csproj.CoreCompileInputs.cache
+C:\Users\радмир\source\repos\kaz2\kaz2\obj\Debug\kaz2.exe
+C:\Users\радмир\source\repos\kaz2\kaz2\obj\Debug\kaz2.pdb
+C:\Users\радмир\source\repos\kaz2\kaz2\obj\Debug\kaz2.Form2.resources
+C:\Users\радмир\source\repos\kaz2\kaz2\obj\Debug\kaz2.Form3.resources
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\bin\Debug\kaz2.exe.config
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\bin\Debug\kaz2.exe
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\bin\Debug\kaz2.pdb
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\obj\Debug\kaz2.csprojAssemblyReference.cache
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\obj\Debug\kaz2.Form1.resources
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\obj\Debug\kaz2.Form2.resources
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\obj\Debug\kaz2.Form3.resources
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\obj\Debug\kaz2.Properties.Resources.resources
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\obj\Debug\kaz2.csproj.GenerateResource.cache
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\obj\Debug\kaz2.csproj.CoreCompileInputs.cache
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\obj\Debug\kaz2.exe
+C:\Users\радмир\Desktop\кдз прога\Кдз по ПРограммирования 6 варинат Имамов Радмир Маратович БПИ 183-2\kaz2\kaz2\obj\Debug\kaz2.pdb
